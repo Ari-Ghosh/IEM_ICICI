@@ -7,15 +7,13 @@ import Contact from "./component/Contact"
 import Call from "./component/Call"
 import Committee from "./component/Committee"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
-
-//npm install react-router-dom@5
+import Footer from "./component/Footer"
 
 function App() {
   return (
     <>
       <Router>
         <Navbar />
-
         <Switch>
           <Route path='/' component={Home} exact>
             <Home />
@@ -36,6 +34,7 @@ function App() {
             <Call />
           </Route>
         </Switch>
+        <Footer />
       </Router>
     </>
   )
