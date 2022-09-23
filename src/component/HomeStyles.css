@@ -1,0 +1,123 @@
+.hero {
+    width: 100%;
+    color: #fff;
+    position: relative;
+}
+
+.hero .introimg {
+    max-width: 100%;
+}
+
+.content h {
+    font-size: 700%;
+    font-weight: 700;
+}
+
+
+.content h2 {
+    font-size: 300%;
+}
+
+
+.hero .content {
+    position: absolute;
+    top: 0;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    margin-top: 15px;
+    padding-top: 5px;
+    position: relative;
+    color: black;
+}
+
+.aboutconf{
+    position: relative;
+    left: 100px;
+    width: 50vw;
+    justify-content: center;
+    text-align: justify;
+    color: black;
+}
+.h4_aboutconfig{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.vertln {
+    width: 2px;
+    background-color: black;
+    margin: 3px;
+}
+
+.news {
+    text-align: center;
+    position: relative;
+    right: 50px;
+    width: 32vw;
+}
+
+.slider {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+
+.missionconf {
+    position: relative;
+    padding: 5%;
+    margin-top: 10px;
+    width: 100%;
+    justify-content: center;
+    text-align: justify;
+    color: white;
+    background-image: url("../assets/outroimg.jpg");
+}
+
+@media screen and (max-width: 940px) {
+    .hero .content {
+        height: 50%;
+    }
+
+    .content h {
+        font-size: 400%;
+        font-weight: 700;
+    }
+
+    .content h2 {
+        font-weight: 500;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .vertln {
+        display: none;
+    }
+
+    .news {
+        display: inline;
+    }
+
+    .aboutconf {
+        width: 100%;
+        right: 0px;
+        left: 0px;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+}

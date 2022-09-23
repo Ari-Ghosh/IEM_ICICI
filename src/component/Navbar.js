@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import "./navbar.css"
+import "./NavbarStyles.css"
 import { Link } from "react-router-dom"
 import { FaBars } from "react-icons/fa"
 import { ImCross } from "react-icons/im"
@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <>
       <nav className='navbar'>
-        <h3 className='logo'>IEM_ICICI</h3>
+        <h3 className='logo'>IEM-ICICI</h3>
         {/*
         if large screen ma xa bhane Mobile add huxa
         if mobile screen ma xa bhane nav-links-mobile add huxa

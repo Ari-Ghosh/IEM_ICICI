@@ -11,6 +11,7 @@ a {
 }
 li {
   list-style-type: none;
+  color: black;
 }
 .navbar {
   display: flex;
@@ -19,8 +20,6 @@ li {
   vertical-align: middle;
   height: 8vh;
   box-shadow: rgba(50, 50, 93, 0.23) 0px 30px 30px -20px;
-
-  /*box-shadow: rgba(50, 50, 93, 0.23) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;*/
 }
 .logo {
   font-size: 200%;
@@ -39,14 +38,7 @@ li {
   cursor: pointer;
   text-transform: capitalize;
 }
-.hero {
-  text-align: center;
-  margin-top: 15%;
-}
-.hero h1 {
-  text-align: center;
-  font-size: 80px;
-}
+
 .mobile-menu-icon {
   display: none;
 }
@@ -56,7 +48,7 @@ button {
   font-size: 20px;
   background: none;
 }
-@media (max-width: 1397px) {
+@media (max-width: 1415px) {
   .logo {
     display: flex;
     position: absolute;
@@ -68,14 +60,15 @@ button {
   }
   .nav-links-mobile {
     position: absolute;
+    z-index: 2;
     display: block;
     list-style: none;
     box-shadow: rgba(50, 50, 93, 0.23) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
     left: 0;
-    top: 10%;
+    top: 8%;
     transition: all 0.5s ease-in-out;
     width: 100%;
-    background-color: white;
+    background-color: #f3f3f3;
   }
   ul li {
     padding: 32px;

@@ -1,12 +1,10 @@
 import React from "react"
 
-const Committee = () => {
+function Committee(){
   return (
-    <>
-      <section className='hero'>
+      <div className='hero'>
         <h1>Our Committee</h1>
-      </section>
-    </>
+      </div>
   )
 }
 export default Committee
