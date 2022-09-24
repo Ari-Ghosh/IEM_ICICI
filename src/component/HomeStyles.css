@@ -143,17 +143,19 @@
 
 @media screen and (max-width: 940px) {
     .hero .content {
-        height: 40%;
+        height: 30%;
     }
 
     .content h {
-        font-size: 400%;
+        font-size: 300%;
         font-weight: 700;
     }
 
     .content h2 {
         font-weight: 500;
+        font-size: 150%;
     }
+
     .logo_conf{
         left: 1%;
         height: 120px;
