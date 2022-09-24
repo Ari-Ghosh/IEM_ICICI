@@ -9,11 +9,9 @@ const Navbar = () => {
   return (
     <>
       <nav className='navbar'>
+      <Link to='/' className='home'>
         <h3 className='logo'>IEM-ICICI</h3>
-        {/*
-        if large screen ma xa bhane Mobile add huxa
-        if mobile screen ma xa bhane nav-links-mobile add huxa
-        */}
+        </Link>
         <ul className={Mobile ? "nav-links-mobile" : "nav-links"} onClick={() => setMobile(false)}>
           <Link to='/' className='home'>
             <li>Home</li>

@@ -1,12 +1,10 @@
 import React from "react"
 
-const Call = () => {
+function Call() {
   return (
-    <>
-      <section className='hero'>
+      <div className='hero'>
         <h1>Call For Papers</h1>
-      </section>
-    </>
+      </div>
   )
 }
 export default Call

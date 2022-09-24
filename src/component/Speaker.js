@@ -1,12 +1,10 @@
 import React from "react"
 
-const Speaker = () => {
+function Speaker () {
   return (
-    <>
-      <section className='hero'>
+      <div className='hero'>
         <h1>Our Esteemed Speakers</h1>
-      </section>
-    </>
+      </div>
   )
 }
 export default Speaker

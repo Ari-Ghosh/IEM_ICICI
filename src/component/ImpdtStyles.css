@@ -1,0 +1,34 @@
+.hero_Impdt {
+    margin: 14.8%;;
+}
+
+thead tr{
+    background-color: rgb(134, 77, 187);
+}
+
+tr {
+    background-color: rgb(168, 136, 199);
+}
+
+
+.heading_Impdt {
+    margin: 2%;
+    text-align: center;
+    color: rgb(94, 27, 156);
+}
+
+table {
+    width: 100%;
+    height: 200%;
+    border-collapse: collapse;
+}
+
+th {
+    border-bottom: 1px solid black;
+    border: 2px solid black;
+}
+
+td {
+    text-align: center;
+    border: 2px solid black;
+}

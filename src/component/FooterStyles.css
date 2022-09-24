@@ -2,9 +2,14 @@
     position: absolute;
     width: 100%;
     padding: 0.5rem 0;
-    background-color: #f5f5f5;
+    background-color: #fff;
     color: black;
     padding-left: 2%;
+}
+
+p {
+    text-decoration: none;
+    color: black;
 }
 
 .footer h3 {
@@ -13,7 +18,9 @@
 
 .footer .top, .bottom {
     display: flex;
-    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 78%;
     justify-content: space-between;
     align-items: center;
 }

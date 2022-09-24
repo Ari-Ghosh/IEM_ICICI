@@ -25,7 +25,7 @@
 }
 
 .logo_conf {
-    height: 15vh;
+    height: 20vh;
     width: 15vw;
     position: relative;
     margin-top: 5%;
@@ -34,7 +34,7 @@
 }
 
 .logo_springer {
-    height: 15vh;
+    height: 20vh;
     width: 20vw;
     position: relative;
     margin-top: 5%;
@@ -43,7 +43,7 @@
 }
 
 .logo_iem {
-    height: 15vh;
+    height: 20vh;
     width: 15vw;
     position: relative;
     margin-top: 5%;
@@ -52,7 +52,7 @@
 }
 
 .logo_uem {
-    height: 15vh;
+    height: 20vh;
     width: 15vw;
     position: relative;
     margin-top: 5%;
@@ -201,6 +201,25 @@
         left: 0px;
         margin-left: 3%;
         margin-right: 3%;
+    }
+    .logo_conf {
+        height: 15vh;
+        
+    }
+    
+    .logo_springer {
+        height: 15vh;
+        
+    }
+    
+    .logo_iem {
+        height: 15vh;
+        
+    }
+    
+    .logo_uem {
+        height: 15vh;
+        
     }
 
 }
