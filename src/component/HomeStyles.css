@@ -156,16 +156,23 @@
     }
     .logo_conf{
         left: 1%;
+        height: 120px;
+        width: 120px;
     }
     .logo_springer {
-        width: 170px;
+        height: 120px;
+        width: 120px;
         right: 1%;
     }
     .logo_iem {
+        height: 120px;
+        width: 120px;
         top: 31%;
         left: 1%;
     }
     .logo_uem {
+        height: 120px;
+        width: 120px;
         top: 31%;
         right: 1%;
     }
