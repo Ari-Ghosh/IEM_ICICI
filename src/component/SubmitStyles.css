@@ -1,0 +1,26 @@
+.hero_Submit {
+    margin-left: 27.8%;
+    margin-right: 27.8%;
+    margin-bottom: 15%;
+    margin-top: 15%;
+}
+
+.heading_Submit {
+    margin: 2%;
+    text-align: center;
+    color: rgb(94, 27, 156);
+}
+
+@media screen and (max-width: 1260px) {
+    .hero_Submit {
+        margin-left: 14.8%;
+        margin-right: 14.8%;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .hero_Submit {
+        margin-left: 4.8%;
+        margin-right: 4.8%;
+    }
+}

@@ -3,8 +3,6 @@
     position: relative;
 }
 
-
-
 .container {
     background-image: url("../assets/introimg.jpg");
 }
@@ -13,7 +11,6 @@
     font-size: 700%;
     font-weight: 700;
 }
-
 
 .content h2 {
     font-size: 300%;
@@ -25,8 +22,8 @@
 }
 
 .logo_conf {
-    height: 20vh;
-    width: 15vw;
+    height: 110px;
+    width: 110px;
     position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
@@ -34,8 +31,8 @@
 }
 
 .logo_springer {
-    height: 20vh;
-    width: 20vw;
+    height: 110px;
+    width: 150px;
     position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
@@ -43,8 +40,8 @@
 }
 
 .logo_iem {
-    height: 20vh;
-    width: 15vw;
+    height: 110px;
+    width: 110px;
     position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
@@ -52,8 +49,8 @@
 }
 
 .logo_uem {
-    height: 20vh;
-    width: 15vw;
+    height: 110px;
+    width: 110px;
     position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
@@ -158,26 +155,6 @@
         font-weight: 500;
         font-size: 150%;
     }
-    .logo_conf {
-        height: 10vh;
-        
-    }
-    
-    .logo_springer {
-        height: 10vh;
-        
-    }
-    
-    .logo_iem {
-        height: 10vh;
-        
-    }
-    
-    .logo_uem {
-        height: 10vh;
-        
-    }
-
 }
 
 @media screen and (max-width: 1300px) {
@@ -202,24 +179,4 @@
         margin-left: 3%;
         margin-right: 3%;
     }
-    .logo_conf {
-        height: 15vh;
-        
-    }
-    
-    .logo_springer {
-        height: 15vh;
-        
-    }
-    
-    .logo_iem {
-        height: 15vh;
-        
-    }
-    
-    .logo_uem {
-        height: 15vh;
-        
-    }
-
 }

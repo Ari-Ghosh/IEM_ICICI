@@ -20,7 +20,7 @@ tr {
 }
 
 table {
-    width: 100%;
+    max-width: 100%;
     height: 100%;
     border-collapse: collapse;
 }
@@ -39,12 +39,13 @@ td {
     .hero_Registration {
         margin-left: 14.8%;
         margin-right: 14.8%;
+        
     }
 }
 
 @media screen and (max-width: 560px) {
     .hero_Registration {
-        margin-left: 4.8%;
-        margin-right: 4.8%;
+        margin-left: 0.5%;
+        margin-right: 0.5%;
     }
 }
