@@ -1,6 +1,5 @@
 import React from "react"
 import './HomeStyles.css'
-import Image from '../assets/introimg.jpg'
 import Carousel from "react-elastic-carousel";
 import Item from "./item";
 import Logo_Conf from '../assets/Logo.jpg'
@@ -18,7 +17,6 @@ const breakPoints = [
 function Home() {
     return (
         <div className='hero'>
-            <img className="introimg" src={Image} alt="" />
             <div className="container">
                 <div className="Logo">
                     <img className="logo_conf" src={Logo_Conf} alt="" />
