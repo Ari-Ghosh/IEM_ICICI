@@ -9,6 +9,7 @@ import Committee from "./component/Committee"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 import Footer from "./component/Footer"
 import Registration from "./component/Registration"
+import Submit from "./component/Submit"
 
 function App() {
   return (
@@ -36,6 +37,9 @@ function App() {
           </Route>
           <Route path='/registration' component={Registration} exact>
             <Registration />
+          </Route>
+          <Route path='/submit' component={Submit} exact>
+            <Submit />
           </Route>
         </Switch>
         <Footer />

@@ -1,0 +1,50 @@
+.hero_Registration {
+    margin-left: 27.8%;
+    margin-right: 27.8%;
+    margin-bottom: 15%;
+    margin-top: 15%;
+}
+
+.heading_Registration {
+    margin: 2%;
+    text-align: center;
+    color: rgb(94, 27, 156);
+}
+
+thead tr {
+    background-color: rgb(134, 77, 187);
+}
+
+tr {
+    background-color: rgb(168, 136, 199);
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    border-bottom: 1px solid black;
+    border: 2px solid black;
+}
+
+td {
+    text-align: left;
+    border: 2px solid black;
+}
+
+@media screen and (max-width: 1260px) {
+    .hero_Registration {
+        margin-left: 14.8%;
+        margin-right: 14.8%;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .hero_Registration {
+        margin-left: 4.8%;
+        margin-right: 4.8%;
+    }
+}

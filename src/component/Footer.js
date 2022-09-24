@@ -13,7 +13,7 @@ function Footer() {
                         <p>@ 2023 IEM-ICICI Conference Community</p>
                     </Link>
                     <Link to='/contact' className='contact'>
-                        <li>Contact</li>
+                        <li>Contact Us</li>
                     </Link>
                     <div className="social">
                         <FaFacebook className='icon' />

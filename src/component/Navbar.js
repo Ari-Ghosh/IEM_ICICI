@@ -22,14 +22,17 @@ const Navbar = () => {
           <Link to='/call' className='call'>
             <li>Call For Papers</li>
           </Link>
+          <Link to='/registration' className='registration'>
+            <li>Registration</li>
+          </Link>
+          <Link to='/submit' className='submit'>
+            <li>Paper Submission</li>
+          </Link>
           <Link to='/speaker' className='speaker'>
             <li>Speakers</li>
           </Link>
           <Link to='/committee' className='committee'>
             <li>Committee</li>
-          </Link>
-          <Link to='/contact' className='contact'>
-            <li>Contact Us</li>
           </Link>
         </ul>
         {/* 
