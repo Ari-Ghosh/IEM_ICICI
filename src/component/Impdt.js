@@ -3,14 +3,14 @@ import "./ImpdtStyles.css"
 
 function Impdt() {
   return (
-      <div className='hero_Impdt'>
-        <h1 className='heading_Impdt'>IMPORTANT DATES</h1>
-        <table>
+    <div className='hero_Impdt'>
+      <h1 className='heading_Impdt'>IMPORTANT DATES</h1>
+      <table>
         <thead>
-        <tr>
-          <th>Events</th>
-          <th>Dates</th>
-        </tr>
+          <tr>
+            <th>Events</th>
+            <th>Dates</th>
+          </tr>
         </thead>
         <tbody>
           <tr>
@@ -29,9 +29,9 @@ function Impdt() {
             <td>Conference Date</td>
             <td> November, 2023</td>
           </tr>
-          </tbody>
+        </tbody>
       </table>
-      </div>
+    </div>
   )
 }
 export default Impdt

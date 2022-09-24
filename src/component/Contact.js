@@ -1,9 +1,10 @@
 import React from "react"
+import "./ContactStyles.css"
 
 function Contact() {
   return (
-      <div className='hero'>
-        <h1>Welcome To Contact Page</h1>
+      <div className='hero_Contact'>
+        <h1 className='heading_Speaker'>Welcome To Contact Page</h1>
       </div>
   )
 }

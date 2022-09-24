@@ -9,8 +9,8 @@ const Navbar = () => {
   return (
     <>
       <nav className='navbar'>
-      <Link to='/' className='home'>
-        <h3 className='logo'>IEM-ICICI</h3>
+        <Link to='/' className='home'>
+          <h3 className='logo'>IEM-ICICI</h3>
         </Link>
         <ul className={Mobile ? "nav-links-mobile" : "nav-links"} onClick={() => setMobile(false)}>
           <Link to='/' className='home'>
@@ -21,6 +21,7 @@ const Navbar = () => {
           </Link>
           <Link to='/call' className='call'>
             <li>Call For Papers</li>
+            
           </Link>
           <Link to='/speaker' className='speaker'>
             <li>Speakers</li>

@@ -1,8 +1,16 @@
-.hero_Impdt {
-    margin: 14.8%;
+.hero_Committee {
+    margin-left: 27.8%;
+    margin-right: 27.8%;
+    margin-bottom: 5%;
 }
 
-thead tr{
+.heading_Committee {
+    margin: 2%;
+    text-align: center;
+    color: rgb(94, 27, 156);
+}
+
+thead tr {
     background-color: rgb(134, 77, 187);
 }
 
@@ -10,16 +18,9 @@ tr {
     background-color: rgb(168, 136, 199);
 }
 
-
-.heading_Impdt {
-    margin: 2%;
-    text-align: center;
-    color: rgb(94, 27, 156);
-}
-
 table {
     width: 100%;
-    height: 200%;
+    height: 100%;
     border-collapse: collapse;
 }
 
@@ -29,19 +30,19 @@ th {
 }
 
 td {
-    text-align: center;
+    text-align: left;
     border: 2px solid black;
 }
 
-@media screen and (max-width: 940px) {
-    .hero_Impdt {
-        margin-left: 11.8%;
-        margin-right: 11.8%;
+@media screen and (max-width: 1260px) {
+    .hero_Committee {
+        margin-left: 14.8%;
+        margin-right: 14.8%;
     }
 }
 
 @media screen and (max-width: 560px) {
-    .hero_Impdt {
+    .hero_Committee {
         margin-left: 4.8%;
         margin-right: 4.8%;
     }

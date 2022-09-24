@@ -8,6 +8,7 @@ import Call from "./component/Call"
 import Committee from "./component/Committee"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 import Footer from "./component/Footer"
+import Registration from "./component/Registration"
 
 function App() {
   return (
@@ -32,6 +33,9 @@ function App() {
           </Route>
           <Route path='/call' component={Call} exact>
             <Call />
+          </Route>
+          <Route path='/registration' component={Registration} exact>
+            <Registration />
           </Route>
         </Switch>
         <Footer />
