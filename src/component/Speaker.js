@@ -1,59 +1,61 @@
 import React from "react"
 import "./SpeakerStyles.css"
+import Profile from '../assets/profile.jpg'
 
-function Speaker () {
+function Speaker() {
   return (
-      <div className='hero_Speaker'>
-        <h1 className='heading_Speaker'>ESTEEMED SPEAKERS AND CHAIRS</h1>
-        <table>
-        <thead>
-          <tr>
-            <th>Role</th>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Institute</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>KEYNOTE SPEAKERS</td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>KEYNOTE SPEAKERS</td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>SESSION CHAIRS</td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>SESSION CHAIRS</td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>SESSION CHAIRS</td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>SESSION CHAIRS</td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-        </tbody>
-      </table>
+    <div className='hero_Speaker'>
+      <h1 className='heading_Speaker'>ESTEEMED SPEAKERS AND CHAIRS</h1>
+      <br></br>
+      <h2 className='role_Speaker'>KEYNOTE SPEAKERS</h2>
+      <br></br>
+      <div className="container_speaker">
+        <div className="placeholder">
+          <div className='pic_keynote'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3> <br></br> </h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic_keynote'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3> <br></br> </h3>
+        </div>
       </div>
+      <br></br>
+      <h2 className='role_Speaker'>SESSION CHAIRS</h2>
+      <br></br>
+      <div className="container_speaker4">
+        <div className="placeholder">
+          <div className='pic_session'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3> <br></br> </h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic_session'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3> <br></br> </h3>
+        </div>
+        <div className="placeholder">
+          <div className='pic_session'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3> <br></br> </h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic_session'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3> <br></br> </h3>
+        </div>
+      </div>
+    </div>
   )
 }
 export default Speaker

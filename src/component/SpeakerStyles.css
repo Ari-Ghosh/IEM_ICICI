@@ -1,8 +1,5 @@
 .hero_Speaker {
-    margin-left: 27.8%;
-    margin-right: 27.8%;
-    margin-bottom: 15%;
-    margin-top: 15%;
+    margin-bottom: 5%;
 }
 
 .heading_Speaker {
@@ -11,40 +8,77 @@
     color: rgb(94, 27, 156);
 }
 
-thead tr {
-    background-color: rgb(134, 77, 187);
+.role_Speaker {
+    margin: 2%;
+    text-align: center;
+    color: rgb(100, 54, 143);
 }
 
-tr {
-    background-color: rgb(168, 136, 199);
+.container_speaker {
+    display: flex;
+    position: relative;
+    justify-content: center;
 }
 
-table {
-    width: 100%;
+.container_speaker4 {
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.pic_keynote {
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 15px;
+}
+
+.pic_session {
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}
+
+.profile {
+    width: auto;
     height: 100%;
-    border-collapse: collapse;
 }
 
-th {
-    border-bottom: 1px solid black;
-    border: 2px solid black;
+.placeholder {
+    justify-content: center;
+    text-align: center;
 }
 
-td {
-    text-align: left;
-    border: 2px solid black;
-}
-
-@media screen and (max-width: 1260px) {
-    .hero_Speaker {
-        margin-left: 14.8%;
-        margin-right: 14.8%;
+@media screen and (max-width: 1570px) {
+    .container_speaker4 {
+        flex-direction: column;
     }
 }
 
-@media screen and (max-width: 560px) {
-    .hero_Speaker {
-        margin-left: 4.8%;
-        margin-right: 4.8%;
+@media screen and (max-width: 820px) {
+
+    .container_speaker {
+        flex-direction: column;
+    }
+
+    .pic_keynote {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .pic_session {
+        margin-left: 0px;
+        margin-right: 0px;
     }
 }
