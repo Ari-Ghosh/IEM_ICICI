@@ -1,6 +1,5 @@
 import React from "react"
 import "./CommitteeStyles.css"
-import Profile from '../assets/profile.jpg'
 
 function Committee() {
   return (
