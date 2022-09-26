@@ -26,7 +26,7 @@ function Home() {
                     <h>ICICI-2023</h>
                     <h2>International Conference on Intelligent Computing and IoT</h2>
                     <br></br>
-                    <h3>Jointly organised by </h3>
+                    <h3>Jointly organised by<br></br> Institute of Engineering & Management, Kolkata and University of Engineering & Management, Kolkata</h3>
                 </div>
                 <div className="Logo">
                     <img className="logo_iem" src={Logo_IEM} alt="" />
@@ -47,7 +47,7 @@ function Home() {
                 </div>
                 <div className="vertln"></div>
                 <div className="news">
-                    <h3 className="h3_aboutconfig">NEWS</h3>
+                    <h3 className="h3_aboutconfig">NEWS & INFORMATION</h3>
                     <div className="slider">
                         <Carousel breakPoints={breakPoints}>
                             <Item>One</Item>

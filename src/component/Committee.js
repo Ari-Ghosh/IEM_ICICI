@@ -1,133 +1,152 @@
 import React from "react"
 import "./CommitteeStyles.css"
+import Profile from '../assets/profile.jpg'
 
 function Committee() {
   return (
     <div className='hero_Committee'>
       <h1 className='heading_Committee'>ORGANIZING COMMITTEE</h1>
-      <table>
-        <thead>
-        <tr>
-          <th>Role</th>
-          <th>Name</th>
-          <th>Designation</th>
-          <th>Institute</th>
-        </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>PATRONS</td>
-            
-            <td>Prof. (Dr.) Satyajit Chakrabarti</td>
-            <td>President, Director</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>CHAIRS</td>
-            
-            <td>Prof. Arun Kumar Bar</td>
-            <td>Principal, IEM Kolkata</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>CHAIRS</td>
-            
-            <td>Prof. Amartya Mukherjee</td>
-            <td>HOD, CSE(AIML), CSBS,</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>SECRETARY</td>
-            
-            <td>Prof. Ayan Kumar Panja</td>
-            <td>Asst. Prof & Asst. HOD, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>CONVENORS</td>
-            
-            <td>Prof. (Dr.) Indrajit De</td>
-            <td>Professor, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>CONVENORS</td>
-            
-            <td>Prof. (Dr.) Swarnendu Ghosh</td>
-            <td>Assoc. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>TREASURER</td>
-            
-            <td>Prof. Mrityunjoy Sen</td>
-            <td>Assoc. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>PUBLICATION COMMITTEE</td>
-            
-            <td>Prof. (Dr.) Indrajit De</td>
-            <td>Professor, CSE(AIML), CSBS,</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>PUBLICATION COMMITTEE</td>
-            
-            <td>Prof. (Dr.) Soumen Nandi</td>
-            <td>Professor, CSE(AIML), CSBS,</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>PUBLICATION COMMITTEE</td>
-            
-            <td>Prof. (Dr.) Swarnendu Ghosh</td>
-            <td>Assoc. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>TECHNICAL COMMITTEE</td>
-            
-            <td>Prof. (Dr.) Tanusree Dutta</td>
-            <td>Asst. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>TECHNICAL COMMITTEE</td>
-            
-            <td>Prof. Nirmal Das</td>
-            <td>Asst. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>TECHNICAL COMMITTEE</td>
-            
-            <td>Prof. Sumana Sinha</td>
-            <td>Asst. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>PROGRAM COMMITTEE</td>
-            
-            <td>Prof. (Dr.) Sovan Saha</td>
-            <td>Assoc. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>PROGRAM COMMITTEE</td>
-            
-            <td>Prof. (Dr.) Sovan Saha</td>
-            <td>Asst. Prof, CSE(AIML), CSBS</td>
-            <td>IEM Kolkata</td>
-          </tr>
-          <tr>
-            <td>ADVISORY COMMITTEE (TBD)</td>
-            <td></td>
-            <td></td>
-            <td></td>
-          </tr>
-          </tbody>
-      </table>
+      <br></br>
+      <h2 className='role_Committee'>PATRONS</h2>
+      <br></br>
+      <div className="placeholder">
+        <div className='pic_patron'>
+          <img className="profile" src={Profile} alt="" />
+        </div>
+        <h3>Prof. (Dr.) Satyajit Chakrabarti <br></br> President & Director, IEM Kolkata</h3>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>CHAIRS</h2>
+      <br></br>
+      <div className="container_profile">
+        <div className="placeholder">
+          <div className='pic_chair'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. Arun Kumar Bar <br></br> Principal, IEM Kolkata</h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic_chair'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. Amartya Mukherjee <br></br> HOD, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>Secretary</h2>
+      <br></br>
+      <div className="placeholder">
+        <div className='pic_chair'>
+          <img className="profile" src={Profile} alt="" />
+        </div>
+        <h3>Prof. Ayan Kumar Panja <br></br> Asst. Prof & Asst. HOD, CSE(AIML), CSBS, IEM Kolkata</h3>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>CONVENORS</h2>
+      <br></br>
+      <div className="container_profile">
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Indrajit De <br></br> Professor, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Swarnendu Ghosh <br></br> Assoc. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>TREASURER</h2>
+      <br></br>
+      <div className="placeholder">
+        <div className='pic'>
+          <img className="profile" src={Profile} alt="" />
+        </div>
+        <h3>Prof. Mrityunjoy Sen <br></br> Assoc. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>PUBLICATION COMMITTEE</h2>
+      <br></br>
+      <div className="container_profile3">
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Indrajit De <br></br> Professor, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Soumen Nandi <br></br> Professor, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Swarnendu Ghosh <br></br> Assoc. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>TECHNICAL COMMITTEE</h2>
+      <br></br>
+      <div className="container_profile3">
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Tanusree Dutta <br></br> Asst. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. Nirmal Das <br></br> Asst. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. Sumana Sinha <br></br> Asst. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>PROGRAM COMMITTEE</h2>
+      <br></br>
+      <div className="container_profile">
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Sovan Saha <br></br> Assoc. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+        <br></br>
+        <div className="placeholder">
+          <div className='pic'>
+            <img className="profile" src={Profile} alt="" />
+          </div>
+          <h3>Prof. (Dr.) Moumita Roy <br></br> Asst. Prof, CSE(AIML), CSBS, IEM Kolkata</h3>
+        </div>
+      </div>
+      <br></br>
+      <h2 className='role_Committee'>ADVISORY COMMITTEE</h2>
+      <br></br>
+      <div className="placeholder">
+        <div className='pic'>
+          <img className="profile" src={Profile} alt="" />
+        </div>
+        <h3> <br></br> </h3>
+      </div>
+      <br></br>
     </div>
   )
 }
