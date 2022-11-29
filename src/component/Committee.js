@@ -27,15 +27,11 @@ function Committee() {
           <hr />
           <br />
           <strong>Convener</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Abhishek Bhattacharya, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
-
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Indrajit De, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
           <hr />
           <br />
-          <strong>Co-Convener</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Dr. Soumi Dutta, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. Sujata Ghatak, Institute of Engineering &amp; Management, Kolkata, West Bengal, India
-          <hr />
-          <br />
+          
           <strong>Advisory Program Committee</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Dr.Rajkumar Rajasekaran, Vellore Institute of technology, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Jyoti Prakash Singh, National Institute of Technology Patna, India<br />
@@ -52,7 +48,7 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" /> Dakshina Ranjan Kisku, National Institute of Technology Durgapur, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Anand Sharma, SET, MUST, Lakshmangarh, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr.Sambit Kumar Mishra, Gandhi Institute for Education and Technology, Baniatangi, Bhubaneswar, Odisha, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Pradeep Reddy Gogulamudi, VIT-AP University, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Dr. Pradeep Reddy Gogulamudi, VIT-AP University, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Rakesh Chandra Balabantaray, IIIT Bhubaneswar, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. S. Devapriya Dewasurendra, Faculty of Engineering, University of Peradeniya, Peradeniya, Sri Lanka<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Soma Barman (Mandal), Institute of Radio Physics &amp; Electronics, University of Calcutta, India<br />
@@ -112,62 +108,61 @@ function Committee() {
           <br />
           <strong>Organising&nbsp;Chairs</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Joel J. P. C. Rodrigues Federal, University of Piauí (UFPI), Brazil<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Dr. Rupam Bhattacharya, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sujata Ghatak, Institute of Engineering &amp; Management, Kolkata, West Bengal, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Arun Kumar Bar, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Amartya Mukherjee, Institute of Engineering &amp; Management, Kolkata, West Bengal, India
           <hr />
           <br />
           <strong>Organising Co-Chairs</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nayantara Mitra, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ankita Mondal, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Pritha Banerjee, Institute of Engineering &amp; Management, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ayan Kumar Panja, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Mrityunjoy Sen, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Moumita Roy, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nirmal Das, Institute of Engineering &amp; Management, India
           <hr />
           <br />
           <strong>Organising&nbsp;Committee</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Abhishek Bhattacharya, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Dr. Soumi Dutta, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sujata Ghatak, Institute of Engineering &amp; Management, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Mrityunjoy Sen, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Tanusree Dutta, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nirmal Das, Institute of Engineering &amp; Management, India
           <br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Dr. Rupam Bhattacharya, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Anwesha Das, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ankan Bhowmik, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Manjima Saha, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Biswajit Maity, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sreelekha Biswas, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nayantara Mitra, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ankita Mondal, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Dr. Goldina Ghosh, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Pritha Banerjee, Institute of Engineering &amp; Management, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Indrajit De, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Subhadip Chandra, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Tanusree Dutta, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sumana Sinha, Institute of Engineering &amp; Management, India<br />
+          
           <hr />
           <br />
           <strong>Registration Chairs</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ankan Bhowmik, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Anwesha Das, Institute of Engineering &amp; Management, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Tanusree Dutta, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sumana Sinha, Institute of Engineering &amp; Management, India
           <hr />
           <br />
           <strong>Publication Chairs</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Dr. Debashis De, Maulana Abul Kalam Azad University of Technology, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Abhishek Bhattacharya, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Amartya Mukherjee, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Soumi Dutta, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Indrajit De, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India<br />
           <hr />
           <br />
           <strong>Publicity Chair</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Catarina Silvam, University of Coimbra, Portugal<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Soumik Das, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof.  Ankan Bhowmik, Institute of Engineering &amp; Management, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India
           <hr />
           <br />
           <strong>Finance Chairs</strong> <br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nayantara Mitra, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Dr. Rupam Bhattacharya, Institute of Engineering &amp; Management, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Mrityunjoy Sen, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sumana Sinha, Institute of Engineering &amp; Management, India
           <hr />
           <br />
           <strong>Hospitality and Transport Chair</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nayantara Mitra, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Manjima Saha, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Subhadip Chandra, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nirmal Das, Institute of Engineering &amp; Management, India<br />
           <hr />
           <br/>
           <strong>Web Chair</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Samrat Goswami, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Samrat Dey, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Moumita Roy, Institute of Engineering &amp; Management, India<br />
           <br /><br />
 
 
