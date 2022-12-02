@@ -66,6 +66,7 @@ function Committee() {
           <br />
           <strong>Technical Program Committee</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Angsuman Sarkar, Kalyani Government Engineering College, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof (Dr) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Anupam Baliyan, Chitkara University, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Ahmed J. Obaid, Faculty of Computer Science and Mathematics, KUFA Universitya, Iraq<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Bhabani P Sinha, Siksha 'O' Anusandhan University, Bhubaneswar, India<br />
