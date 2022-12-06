@@ -24,6 +24,7 @@ function Committee() {
           <br />
           <strong> Technical Program Chair</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp; Dr. Debabrata Samanta, CHRIST (Deemed to be University), Bangalore, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof (Dr) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
           <hr />
           <br />
           <strong>Convener</strong><br />
