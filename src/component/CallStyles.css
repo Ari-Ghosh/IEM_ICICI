@@ -14,6 +14,11 @@
     background-color: rgb(134, 77, 187);
 }
 
+.subheading_Call{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
 .hero_Call tr {
     background-color: #f5f5f5;
 }

@@ -5,6 +5,7 @@ function Call() {
   return (
     <div className='hero_Call'>
       <h1 className='heading_Call'>Thrust Areas (But not limited to)</h1>
+      <h4 className='subheading_Call'>Researchers may submit their papers to any one of the tracks mentioned below. </h4>
       <table>
         <thead>
           <tr>
