@@ -33,11 +33,12 @@ function Committee() {
           <hr />
           <br />
           <strong>Editorial Board Chair</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Indrajit De, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Teresa Gonçalves, University of Évora, Portugal<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Soumi Dutta, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
+          OR<br/>
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Indrajit De, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
           <hr />
           <br />
           <strong>Advisory Program Committee</strong><br />
