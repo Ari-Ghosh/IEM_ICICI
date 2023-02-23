@@ -57,6 +57,40 @@
     right: 18%;
 }
 
+.associate_logo{
+    display: flex;
+    justify-content: space-around;
+    margin: 5% 0%;
+}
+
+.logo_isoc{
+    height: 110px;
+    width: 330px;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.logo_iste{
+    height: 220px;
+    width: 220px;
+    position: relative;
+    margin-bottom: 5%;
+}
+
+.logo_smart{
+    height: 110px;
+    width: 220px;
+    position: relative;
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+
+.camp{
+    height: fit-content;
+    width: fit-content;
+}
+
 .hero .content {
     position: relative;
     display: flex;

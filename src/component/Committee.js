@@ -22,17 +22,24 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Janusz Kacprzyk, PH.D., D.SC., DR H.C. MULT., Fellow of IEEE, IET, IFSA, EurAI, IFIP, SMIA, Poland<br />
           <hr />
           <br />
-          <strong> Technical Program Chair</strong><br />
+          <strong> Technical Program Committee Chair</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp; Dr. Debabrata Samanta, CHRIST (Deemed to be University), Bangalore, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof (Dr) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof (Dr.) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
           <hr />
           <br />
           <strong>Convener</strong><br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Amartya Mukherjee, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ayan Kumar Panja, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
+          <hr />
+          <br />
+          <strong>Editorial Board Chair</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Indrajit De, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Teresa Gonçalves, University of Évora, Portugal<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Soumi Dutta, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
           <hr />
           <br />
-          
           <strong>Advisory Program Committee</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Dr.Rajkumar Rajasekaran, Vellore Institute of technology, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Dr. Jyoti Prakash Singh, National Institute of Technology Patna, India<br />
@@ -117,7 +124,7 @@ function Committee() {
           <strong>Organising Co-Chairs</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ayan Kumar Panja, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Mrityunjoy Sen, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Moumita Roy, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Deepsubhra Guha Roy, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nirmal Das, Institute of Engineering &amp; Management, India
           <hr />
           <br />
@@ -131,6 +138,10 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Subhadip Chandra, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Tanusree Dutta, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sumana Sinha, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Deepsubhra Guha Roy, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Pabak Indu, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Tanima Bhowmik, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Kaushiki Roy, Institute of Engineering &amp; Management, India<br />
           
           <hr />
           <br />
@@ -164,7 +175,7 @@ function Committee() {
           <br/>
           <strong>Web Chair</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Moumita Roy, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Pabak Indu, Institute of Engineering &amp; Management, India<br />
           <br /><br />
 
 
