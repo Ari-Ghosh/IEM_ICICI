@@ -68,7 +68,7 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Dilip Kumar Pratihar, IIT Kanpur, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Esteban Alfaro-Cortés, University of Castilla-La Mancha (UCLM), Albacete, Spain, España<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Prithviraj Kabisatpathy, C.V. Raman Global University, Bhubaneswar, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sach1 Nandan Mohanty,  ICFAI foundation, India<br/>
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sachi Nandan Mohanty,  ICFAI foundation, India<br/>
 
           <hr />
           <br />
