@@ -124,13 +124,11 @@ function Committee() {
           <br />
           <strong>Organising Co-Chairs</strong><br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Ayan Kumar Panja, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Mrityunjoy Sen, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Deepsubhra Guha Roy, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nirmal Das, Institute of Engineering &amp; Management, India
           <hr />
           <br />
           <strong>Organising&nbsp;Committee</strong><br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Mrityunjoy Sen, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. (Dr.) Tanusree Dutta, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Nirmal Das, Institute of Engineering &amp; Management, India
           <br />
@@ -165,7 +163,6 @@ function Committee() {
           <hr />
           <br />
           <strong>Finance Chairs</strong> <br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Mrityunjoy Sen, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sumana Sinha, Institute of Engineering &amp; Management, India
           <hr />
           <br />
