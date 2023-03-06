@@ -114,10 +114,11 @@ function Committee() {
           <hr />
           <br />
 
-          <strong>OrganisingChairs</strong><br />
+          <strong>Organising Chairs</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Joel J. P. C. Rodrigues Federal, University of Piauí (UFPI), Brazil<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Arun Kumar Bar, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Amartya Mukherjee, Institute of Engineering &amp; Management, Kolkata, West Bengal, India <br/>
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Abhishek Bhattacharya, Institute of Engineering &amp; Management, Kolkata, West Bengal, India <br/>
           <hr />
           <br />
 
