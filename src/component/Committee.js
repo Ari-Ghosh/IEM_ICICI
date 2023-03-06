@@ -163,7 +163,8 @@ function Committee() {
           <hr />
           <br />
           <strong>Finance Chairs</strong> <br />
-          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sumana Sinha, Institute of Engineering &amp; Management, India
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Sumana Sinha, Institute of Engineering &amp; Management, India<br/>
+          <img src={Img} alt="f" width="9" height="9" />&nbsp;Prof. Pabak Indu, Institute of Engineering &amp; Management, India
           <hr />
           <br />
           <strong>Hospitality and Transport Chair</strong><br />
