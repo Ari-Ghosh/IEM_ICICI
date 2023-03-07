@@ -2,7 +2,7 @@ import React from "react"
 import './HomeStyles.css'
 import Carousel from "react-elastic-carousel";
 import Item from "./item";
-import Logo_Conf from '../assets/Logo.jpg'
+import Logo_Conf from '../assets/Logo.png'
 // import Logo_Springer from '../assets/springer pic.jpeg'
 import Logo_IEM from '../assets/IEM pic.png'
 import Logo_UEM from '../assets/UEM.png'
