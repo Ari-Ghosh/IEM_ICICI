@@ -84,7 +84,7 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Anuranjan Misra, Greater Noida Institute of Technology, Greater Noida, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) K SURESH BABU, JNT University, Hyderabad, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Pradeep N, Bapuji Institute of Engineering and Technology, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Rashmi Soni, Oriental University, Indore, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Rashmi Soni, Oriental University, Indore, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) B. K. Tripathy, VIT, Vellore, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Himadri Sekhar Dutta, Kalyani Government Engineering College, West Bengal, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Indrajit Bhattacharya, Kalyani Government Engineering College, India<br />
@@ -92,16 +92,16 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Rabindra K Kumar, KIIT Deemed to be University, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Samir Malakar, Asutosh College, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sudhakar Tripathi, REC Ambedkarnagar UP India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Anitha.S, ACS COLLEGE OF ENGINEERING, Bangalore, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Ashish Mishra, Gyan Ganga Institute of Technology and Sciences, Jabalpur, M.P, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)D.Akila, Vels Institute of Science, Technology and Advance Studies, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.).Thangaraju, Bishop Heber College, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Hemanta Dey, Techno International New Town, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Jayanta Kumar Pal, Machine Intelligence Unit, Indian Statistical Institute, Kolkata, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Manju Khari, Jawaharlal Nehru University, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Mudassir Khan, King Khalid University<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)N V RAMANA RAO, NIT WARANGAL<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.)Prashant K Srivastava, Banaras Hindu University, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Anitha.S, ACS COLLEGE OF ENGINEERING, Bangalore, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Ashish Mishra, Gyan Ganga Institute of Technology and Sciences, Jabalpur, M.P, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) D.Akila, Vels Institute of Science, Technology and Advance Studies, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) P.Thangaraju, Bishop Heber College, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Hemanta Dey, Techno International New Town, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Jayanta Kumar Pal, Machine Intelligence Unit, Indian Statistical Institute, Kolkata, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Manju Khari, Jawaharlal Nehru University, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Mudassir Khan, King Khalid University<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) N V RAMANA RAO, NIT WARANGAL<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Prashant K Srivastava, Banaras Hindu University, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) ARUN SHARMA, Indira Gandhi Delhi Technical University for Women, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) SHIKHA JAIN, Jaypee Institute of Information Technology, Noida, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sudhakara Arabagatte Dr., University of Mysore, India<br />
