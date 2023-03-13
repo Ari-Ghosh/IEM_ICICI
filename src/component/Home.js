@@ -29,8 +29,8 @@ function Home() {
                     {/* <img className="logo_springer" src={Logo_Springer} alt="" /> */}
                 </div>
                 <div className="content">
-                    <h>ICICI-2023</h>
-                    <h2>International Conference on Intelligent Computing and IoT</h2>
+                    <h>ICIEM-2023</h>
+                    <h2>International Conference on IoT, Expert Systems and Machine Learning</h2>
                     <br></br>
                     <h3>Jointly organised by<br></br> Institute of Engineering & Management, Kolkata and University of Engineering & Management, Kolkata</h3>
                 </div>
@@ -53,7 +53,7 @@ function Home() {
             <div className="about">
                 <div className="aboutconf">
                     <h2 className="h4_aboutconfig">About The Conference</h2>
-                    <h3>The 1st International Conference on Intelligent Computing and IoT (ICICI-2023) is organized by the Institute of Engineering & Management along with the University of Engineering & Management in association with the Smart Society, USA, Internet Society Kolkata Chapter and the Indian Society for Technical Education. The conference focuses on state-of-the-art Artificial Intelligence and Machine Learning Technologies and the applications in domains such as Computer Vision, Language Processing, Computational Biology so on. The second focus area of the conference is to cater to the increasing hype regarding Internet of Things and the related research niches such as 5G Networks, Edge Computing and IoT Securities.</h3>
+                    <h3>The 1st International Conference on IoT, Expert Systems and Machine Learning(ICIEM-2023) is organized by the Institute of Engineering & Management along with the University of Engineering & Management in association with the Smart Society, USA, Internet Society Kolkata Chapter and the Indian Society for Technical Education. The conference focuses on state-of-the-art Artificial Intelligence and Machine Learning Technologies and the applications in domains such as Computer Vision, Language Processing, Computational Biology so on. The second focus area of the conference is to cater to the increasing hype regarding Internet of Things and the related research niches such as 5G Networks, Edge Computing and IoT Securities.</h3>
                 </div>
                 <div className="vertln"></div>
                 <div className="news">

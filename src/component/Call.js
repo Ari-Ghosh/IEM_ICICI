@@ -14,21 +14,7 @@ function Call() {
         </thead>
         <br></br>
         <tbody>  
-          <tr>
-            <td>  
-              <th> Paradigms of  Intelligent Computing </th>
-              <tr>
-                <td>  ● Artificial Intelligence & Machine Learning</td>
-              </tr>
-              <tr>
-                <td>  ● Linguistics and Knowledge Representations</td>
-              </tr>
-              <tr>
-                <td>  ● Computational Biology</td>
-              </tr>
-            </td>
-          </tr>
-          <tr>
+        <tr>
             <td>  
               <th> Frontiers of Internet of Things </th>
               <tr>
@@ -42,6 +28,21 @@ function Call() {
               </tr>
             </td>
           </tr>
+          <tr>
+            <td>  
+              <th> Paradigms of  Expert Systems and Machine Learning </th>
+              <tr>
+                <td>  ● Artificial Intelligence & Machine Learning</td>
+              </tr>
+              <tr>
+                <td>  ● Linguistics and Knowledge Representations</td>
+              </tr>
+              <tr>
+                <td>  ● Computational Biology</td>
+              </tr>
+            </td>
+          </tr>
+          
         </tbody>
       </table>
     </div>
