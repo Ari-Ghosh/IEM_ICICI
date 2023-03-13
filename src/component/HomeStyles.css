@@ -22,9 +22,9 @@
 }
 
 .logo_conf {
-    height: 250px;
-    width: 250px;
-    position: center;
+    height: 200px;
+    width: 200px;
+    position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
     left: 7%;
