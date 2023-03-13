@@ -19,12 +19,12 @@ function Committee() {
           <hr />
           <br />
           <strong>General Chair</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Janusz Kacprzyk, PH.D., D.SC., DR H.C. MULT., Fellow of IEEE, IET, IFSA, EurAI, IFIP, SMIA, Poland<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Maria Ganzha, Faculty of Mathematics and Informatics, Warsaw University of Technology, Poland<br />
           <hr />
           <br />
           <strong> Technical Program Committee Chair</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Debabrata Samanta, CHRIST (Deemed to be University), Bangalore, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof (Dr.) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Debabrata Samanta, CHRIST (Deemed to be University), Bangalore, India<br />
           <hr />
           <br />
           <strong>Convener</strong><br />
@@ -34,13 +34,14 @@ function Committee() {
           <br />
           <strong>Editorial Board Chair</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Teresa Gonçalves, University of Évora, Portugal<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Satyajit Chakrabarti, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Indrajit De, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
           <hr />
           <br />
           <strong>Advisory Program Committee</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Teresa Gonçalves, University of Évora, Portugal<br />
+          
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Rajkumar Rajasekaran, Vellore Institute of technology, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Jyoti Prakash Singh, National Institute of Technology Patna, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Amlan Chakrabarti, A.K. Choudhury School of Information Technology, University of Calcutta, India<br />
