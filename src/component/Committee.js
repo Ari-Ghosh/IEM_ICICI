@@ -29,7 +29,7 @@ function Committee() {
           <br />
           <strong>Convener</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Ayan Kumar Panja, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Deepsubhra Guha Roy, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sumana Sinha, Institute of Engineering &amp; Management, India<br/>
           <hr />
           <br />
           <strong>Editorial Board Chair</strong><br />
@@ -182,7 +182,6 @@ function Committee() {
 
           <strong>Web Chairs</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. Pabak Indu, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Kaushiki Roy, Institute of Engineering &amp; Management, India <br/>
           <br /><br />
           
