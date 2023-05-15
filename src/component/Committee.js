@@ -83,7 +83,6 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Tushar Kanti Bera, National Institute of Technology Durgapur, India <br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) U Dinesh Kumar, Indian Institute of Management,Bangalore, India <br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Vijayakumar Bharathi. S, Symbiosis Centre for Information Technology, Symbiosis International, India <br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Teresa Gonçalves, University of Évora, Portugal <br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Rajkumar Rajasekaran, Vellore Institute of technology, India <br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Jyoti Prakash Singh, National Institute of Technology Patna, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Amlan Chakrabarti, A.K. Choudhury School of Information Technology, University of Calcutta, India<br />
