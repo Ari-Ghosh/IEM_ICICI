@@ -26,11 +26,7 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" /> Prof (Dr.) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
           <hr />
           <br />
-          // <strong>Convener</strong><br />
-          // <img src={Img} alt="f" width="9" height="9" /> Prof. Ayan Kumar Panja, Institute of Engineering &amp; Management, Kolkata, West Bengal, India<br />
-          // <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sumana Sinha, Institute of Engineering &amp; Management, India<br/>
-          // <hr />
-          // <br />
+
           <strong>Editorial Board Chair</strong><br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Jyotsna Kumar Mandal, Kalyani Government Engineering College, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Satyajit Chakrabarti, Institute of Engineering &amp; Management, India<br />
