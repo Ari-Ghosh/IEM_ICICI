@@ -15,19 +15,27 @@ function Impdt() {
         <tbody>
           <tr>
             <td>Paper Submission Deadline</td>
-            <td>July, 2023</td>
+            <td>November 30th, 2023</td>
           </tr>
           <tr>
             <td>Acceptance Notification</td>
-            <td>August, 2023</td>
+            <td>January 31st, 2024</td>
           </tr>
           <tr>
-            <td>Registration and CRC Deadline</td>
-            <td> October, 2023</td>
+            <td>Revised Submission</td>
+            <td>February 15th, 2024</td>
           </tr>
           <tr>
-            <td>Conference Date</td>
-            <td> November, 2023</td>
+            <td>Camera Ready</td>
+            <td>February 28th, 2024</td>
+          </tr>
+          <tr>
+            <td>Date of Registration</td>
+            <td>February 28th, 2024</td>
+          </tr>
+          <tr>
+            <td>Date of Conference</td>
+            <td>March 22th-23th,2024</td>
           </tr>
         </tbody>
       </table>
