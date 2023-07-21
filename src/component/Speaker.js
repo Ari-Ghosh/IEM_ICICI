@@ -5,9 +5,9 @@ import Profile from '../assets/profile.jpg'
 function Speaker() {
   return (
     <div className='hero_Speaker'>
-      <h1 className='heading_Speaker'>Will be announced soon</h1>
+      <h1 className='heading_Speaker'>ESTEEMED SPEAKERS AND CHAIRS</h1>
       <br></br>
-      </div>
-)
+    </div>
+  )
 }
 export default Speaker
