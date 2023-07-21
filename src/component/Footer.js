@@ -15,7 +15,7 @@ function Footer() {
                     <Link to='/contact' className='contact'>
                         <li>Contact Us</li>
                     </Link>
-
+                    
                 </div>
             </div>
         </div>
