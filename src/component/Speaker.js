@@ -7,7 +7,7 @@ function Speaker() {
     <div className='hero_Speaker'>
       <h1 className='heading_Speaker'>TO BE ANNOUNCED SOON</h1>
       <br></br>
-      /*<h2 className='role_Speaker'>KEYNOTE SPEAKERS</h2>
+      <h2 className='role_Speaker'>KEYNOTE SPEAKERS</h2>
       <br></br>
       <div className="container_speaker">
         <div className="placeholder">
@@ -54,7 +54,7 @@ function Speaker() {
           </div>
           <h3> <br></br> </h3>
         </div>
-      </div>*/
+      </div>
     </div>
   )
 }
