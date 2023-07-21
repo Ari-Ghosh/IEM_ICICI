@@ -10,7 +10,7 @@ const Navbar = () => {
     <>
       <nav className='navbar'>
       <Link to='/' className='home'>
-        <h3 className='logo'>ICIEM 2023</h3>
+        <h3 className='logo'>ICIEM 2024</h3>
         </Link>
         <ul className={Mobile ? "nav-links-mobile" : "nav-links"} onClick={() => setMobile(false)}>
           <Link to='/' className='home'>
