@@ -20,7 +20,7 @@ function Footer() {
                         <FaInstagram className='icon' />
                         <FaTwitter className='icon' />
                         <FaYoutube className='icon' />
-                    //</div>
+                    </div>
                 </div>
             </div>
         </div>
