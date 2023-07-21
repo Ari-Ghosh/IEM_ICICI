@@ -15,12 +15,12 @@ function Footer() {
                     <Link to='/contact' className='contact'>
                         <li>Contact Us</li>
                     </Link>
-                    <div className="social">
-                        <FaFacebook className='icon' />
-                        <FaInstagram className='icon' />
-                        <FaTwitter className='icon' />
-                        <FaYoutube className='icon' />
-                    </div>
+                    //<div className="social">
+                    //    <FaFacebook className='icon' />
+                    //    <FaInstagram className='icon' />
+                    //   <FaTwitter className='icon' />
+                    //    <FaYoutube className='icon' />
+                    //</div>
                 </div>
             </div>
         </div>

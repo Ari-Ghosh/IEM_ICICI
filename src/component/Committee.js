@@ -135,19 +135,20 @@ function Committee() {
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Ayan Kumar Panja, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Deepsubhra Guha Roy, Institute of Engineering &amp; Management, India<br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sumana Sinha, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Piyali Dutta, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Mousumi Laha, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Subhadip Chandra, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Nirmal Das, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Kaushiki Roy, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Pabak Indu, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Tanima Bhowmik, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. Bipasha Mahato, Institute of Engineering &amp; Management, India<br />
           <hr />
           <br />
 
           <strong>Registration Chairs</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sumana Sinha, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Mousumi Laha, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. Bipasha Mahato, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Tanima Bhowmik, Institute of Engineering &amp; Management, India <br/>
           <hr />
           <br />
@@ -162,15 +163,16 @@ function Committee() {
           <br />
 
           <strong>Publicity Chairs</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India <br/>
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Piyali Dutta, Institute of Engineering &amp; Management, India <br/>
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Mousumi Laha, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Kaushiki Roy, Institute of Engineering &amp; Management, India <br/>
+          <img src={Img} alt="f" width="9" height="9" /> Prof. Tanima Bhowmik, Institute of Engineering &amp; Management, India <br/>
           <hr />
           <br />
 
           <strong>Finance Chairs</strong> <br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Pabak Indu, Institute of Engineering &amp; Management, India <br/>
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Sumana Sinha, Institute of Engineering &amp; Management, India<br/>
+          <img src={Img} alt="f" width="9" height="9" /> Prof. Subhadip Chandra, Institute of Engineering &amp; Management<br/>
           <hr />
           <br />
 
@@ -183,7 +185,8 @@ function Committee() {
           <br />
 
           <strong>Web Chairs</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Swarnendu Ghosh, Institute of Engineering &amp; Management, India <br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Piyali Dutta, Institute of Engineering &amp; Management, India <br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Kaushiki Roy, Institute of Engineering &amp; Management, India <br/>
           <br /><br />
         </div>
