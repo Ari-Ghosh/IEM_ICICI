@@ -18,9 +18,9 @@ function Footer() {
                     //<div className="social">
                     //    <FaFacebook className='icon' />
                     //    <FaInstagram className='icon' />
-                    //   <FaTwitter className='icon' />
-                    //    <FaYoutube className='icon' />
-                    //</div>
+                        <FaTwitter className='icon' />
+                        <FaYoutube className='icon' />
+                    </div>
                 </div>
             </div>
         </div>
