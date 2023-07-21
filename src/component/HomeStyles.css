@@ -24,10 +24,10 @@
 .logo_conf {
     height: 200px;
     width: 200px;
-    position: center;
+    position: relative;
     margin-top: 5%;
     margin-bottom: 5%;
-    left: 7%;
+    left: 50%;
 }
 
 .logo_springer {
