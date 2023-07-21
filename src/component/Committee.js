@@ -116,7 +116,7 @@ function Committee() {
         
 
           <strong>Organising Chairs</strong><br />
-          <img src={Img} alt="f" width="9" height="9" /> Prof. Arun Kumar Bar, Institute of Engineering &amp; Management, India<br />
+          <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Arun Kumar Bar, Institute of Engineering &amp; Management, India<br />
           <img src={Img} alt="f" width="9" height="9" /> Prof. Amartya Mukherjee, Institute of Engineering &amp; Management, Kolkata, West Bengal, India <br/>
           <img src={Img} alt="f" width="9" height="9" /> Prof. (Dr.) Abhishek Bhattacharya, Institute of Engineering &amp; Management, Kolkata, West Bengal, India <br/>
           <hr />

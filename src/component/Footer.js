@@ -10,7 +10,7 @@ function Footer() {
             <div className="container_footer">
                 <div className="top">
                     <Link to='/' className='home'>
-                        <p>@ 2023 IEM-ICICI Conference Community</p>
+                        <p>@ ICIEM 2024 Conference Community</p>
                     </Link>
                     <Link to='/contact' className='contact'>
                         <li>Contact Us</li>

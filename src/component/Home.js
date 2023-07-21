@@ -32,7 +32,7 @@ function Home() {
                     <h>ICIEM-2023</h>
                     <h2>International Conference on IoT, Expert Systems and Machine Learning</h2>
                     <br></br>
-                    <h3>Jointly organised by<br></br> Institute of Engineering & Management, Kolkata and University of Engineering & Management, Kolkata</h3>
+                    <h3>Organised by<br></br> Institute of Engineering & Management, Kolkata and University of Engineering & Management, Kolkata</h3>
                 </div>
                 <div className="Logo">
                     <img className="logo_iem" src={Logo_IEM} alt="" />
